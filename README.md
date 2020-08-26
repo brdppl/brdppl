@@ -1,16 +1,33 @@
 ### Hi there 👋
 
-<!--
-**brdppl/brdppl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+const me = {
+  name: 'Bernardo Sampaio',
+  age: 24,
+  nationality: 'Brazilian',
+  devType: 'Front-End'
+}
 
-Here are some ideas to get you started:
+const skills = [
+  'HTML',
+  'CSS',
+  'JavaScript',
+  'TypeScript',
+  'Angular',
+  'React',
+  'Ionic',
+  'React Native',
+  'Flutter',
+  'Sass',
+  'Node.js',
+  'MongoDB',
+  'Git',
+  'Shell/Bash'
+]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+const sectorKnowledge = ['Scrum', 'Kanban', 'Azure', 'Trello']
+```
+
+#### More info
+- 🌐 https://codeart.com.br/
+- 🔗 https://www.linkedin.com/in/bernardo-sampaio-596862140/
