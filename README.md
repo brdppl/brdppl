@@ -25,7 +25,12 @@ const skills = [
   'Shell/Bash'
 ]
 
-const sectorKnowledge = ['Scrum', 'Kanban', 'Azure', 'Trello']
+const sectorKnowledge = [
+  'Scrum',
+  'Kanban',
+  'Azure',
+  'Trello'
+]
 ```
 
 #### More info
