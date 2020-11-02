@@ -21,6 +21,7 @@ const skills = [
   'Sass',
   'Node.js',
   'MongoDB',
+  'GraphQL',
   'Git',
   'Shell/Bash'
 ]
