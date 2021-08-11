@@ -15,6 +15,7 @@ const skills = [
   'TypeScript',
   'Angular',
   'React',
+  'Next.js',
   'Ionic',
   'React Native',
   'Flutter',
