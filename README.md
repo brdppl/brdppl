@@ -19,6 +19,7 @@ const skills = [
   'Ionic',
   'React Native',
   'Flutter',
+  'Dart',
   'Sass',
   'Node.js',
   'MongoDB',
