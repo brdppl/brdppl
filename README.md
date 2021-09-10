@@ -22,6 +22,7 @@ const skills = [
   'Dart',
   'Sass',
   'Node.js',
+  'Python',
   'MongoDB',
   'GraphQL',
   'Git',
