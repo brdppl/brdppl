@@ -5,7 +5,9 @@ const me = {
   name: 'Bernardo Sampaio',
   age: 28,
   nationality: 'Brazilian',
-  devType: 'Front-End'
+  devType: 'Front-End',
+  company: 'Zup Innovation',
+  role: 'Specialist Frontend Developer'
 }
 
 const skills = [
